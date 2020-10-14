@@ -1,4 +1,4 @@
-# Deploy and scale Microsoft Azure Cloud Native infrastructures and applications with Red Hat Ansible Automation
+# Deploy and scale Microsoft Azure Cloud Native infrastructures and applications with Red Hat Ansible Automation Nerds
 <p align="center">
 <img src="images/ansiblefest2020.png" width="700">
 </p>
